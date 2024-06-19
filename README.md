@@ -1,4 +1,4 @@
-![Aalekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyAalekh&show_icons=true&theme=radical)
+![Aalekh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyAalekh&show_icons=true&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyAalekh)](https://github.com/RoyAalekh/github-readme-stats)
 
