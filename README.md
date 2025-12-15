@@ -7,8 +7,8 @@
 - I’m interested in Data Science, Tabular ML, Social Data Science/Social Computational Science, Complex Nteworks, and Network Science.
 - I’m currently learning Graph Machine Learning, Complex Network and Tabular ML.
 - I’m looking to collaborate on projects related to social data/ public data and solve complex problems with inherent uncertainity in structure and dynamics.
-- Email me [roy.aalekh@gmail.com](roy.aalekh@gmail.com)
-- Webpage: [AR](https://www.royaalekh.github.io)
+- Email me roy.aalekh@gmail.com
+- Webpage: [AR](https://royaalekh.github.io/)
 - Fun fact: I have academic background in liberal arts as well as in Maths and ML, this allows me engage in conversations from [Statistical learning theory](https://statisticalsupportandresearch.wordpress.com/wp-content/uploads/2017/05/vladimir-vapnik-the-nature-of-statistical-learning-springer-2010.pdf) to [Antonio Gramsci's idea of hegemony](https://www.marxists.org/history/erol/ncm-7/tr-gramsci.htm)
 
 <!---
